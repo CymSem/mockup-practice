@@ -9,6 +9,10 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+h3 {
+  visibility: hidden;
+}
+
 .clearfix:after {
   content: "";    
   display: block;    
